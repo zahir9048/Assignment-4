@@ -8,7 +8,7 @@ interface HeaderProps {
 
 export default function Header({ font }: HeaderProps) {
     return (
-      // Semantic HTML
+      // Semantic HTML xyz
       <>
         <header className= {`${font.className} links-parent`}>
             <ul className="links">
